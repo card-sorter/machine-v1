@@ -16,8 +16,8 @@ The files for the machine will be uploaded here
 | Movement | Arduino CNC Shield | Board | 1 | 50 |  | 50 | This allows tmc2209 stepper drivers to connect to the Arduino Uno |
 | Movement | TMC2209 Stepper Motor Drivers | Driver | 2 | 150 |  | 300 | These power the stepper motors |
 | Movement | NEMA17 Stepper Motor (with included mounts) | Motor | 2 | 257 |  | 514 | To move the gantry |
-| Movement | Linear Rails 400mm | Rail \+ Carriage | 1 | 750 |  | 750 | For X axis |
-| Movement | Linear Rails 200mm | Rail \+ Carriage | 1 | 680 |  | 680 | For Z axis |
+| Movement | mgn12c Linear Rails 400mm | Rail \+ Carriage | 1 | 750 |  | 750 | For X axis |
+| Movement | mgn12c Linear Rails 200mm | Rail \+ Carriage | 1 | 680 |  | 680 | For Z axis |
 | Movement | 6mm Timing Belt | Belt | 2 | 30 |  | 60 | 1 for each stepper motor |
 | Movement | 20T 6mm Stepper Motor Pulley | Pulley | 2 | 35 |  | 70 | 1 for each stepper motor |
 | Structure | 2020 Aluminum Extrusion 4x220 & 2x380 | Bar | 6 | 43-60 |  | 272 | To build the frame and the gantry |
